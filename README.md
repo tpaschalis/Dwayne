@@ -9,10 +9,10 @@ A simple email-based tool, for asynchronous stand-up meetings and workflow analy
 
 
 ## Motivation
-**TL;DR** This is an email-based alternative to [Geekbot](https://geekbot.io/). It's a tool used for asynchronous stand-up meetings over email, that can also be used to quantify your workflow and help with self-management.   
+**TL;DR** This is an email-based alternative to [Geekbot](https://geekbot.io/). It's a tool used for asynchronous stand-up meetings over email, that can also be used to quantify your workflow.   
 It requires reading through your inbox archive in the [mbox](https://en.wikipedia.org/wiki/Mbox) format, which is the default format used by Thunderbird.
 
-Shortly before I completed my last internship, Geekbot was introduced for stand-up meetings in our Slack. I liked the idea, but the main drawbacks is my love-and-hate relationship with Slack, as well as... $2.50 per participant, per month?   
+Shortly before I completed my last internship, Geekbot was introduced for stand-up meetings in our Slack. I liked the idea, but the main drawbacks is my love-and-hate relationship with Slack, as well as... it wasn't free for personal use.   
 I set out to [cook my own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), using my weapon-of-choice, Python, and *the best* method of communicating through the internet. Email.
 
 <figure>
