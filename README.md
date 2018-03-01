@@ -16,7 +16,7 @@ Shortly before I completed my last internship, Geekbot was introduced for stand-
 I set out to [cook my own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), using my weapon-of-choice, Python, and *the best* method of communicating through the internet. Email.
 
 <figure>
-    <img src="/rollcall_testing/resources/images/exhibit_a.png" style='height: 80%; width: 80%; object-fit: contain'/>  
+    <img src="/resources/images/exhibit_a.png" style='height: 80%; width: 80%; object-fit: contain'/>  
 </figure>
 
 As a long-time lover of good-old Python 2.7, it was an opportunity to finally bite the bullet. This was my first project that was developed and tested using Python 3 *exclusively*.
